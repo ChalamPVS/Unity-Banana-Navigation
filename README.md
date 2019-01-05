@@ -5,6 +5,12 @@ Unity Banana Navigation
 
 This project aims to solve unity banana navigation environment (see `Environment Details`) using Deep Reinforcement Learning. 
 
+## Untrained Agent
+![Untrained](images/random.gif)
+
+## Trained Agent
+![Trained](images/solved.gif)
+
 ## Environment Details
 
 An agent should learn to navigate (and collect bananas!) in a large, square world. A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas.
@@ -35,12 +41,6 @@ Run the following command on the terminal; doing so will pop up a window on your
 ```shell
 $ jupyter notebook
 ```
-
-## Untrained Agent
-![Untrained](images/random.gif)
-
-## Trained Agent
-![Trained](images/solved.gif)
 
 
 ## References
